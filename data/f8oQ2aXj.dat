@@ -1,0 +1,251 @@
+return {
+-- Table: {1}
+{
+   ["monthlyData"]="[[\"Salary of owner-manager\",3000],\13\
+[\"All other salaries and wages\",0],\13\
+[\"Rent\",0],\13\
+[\"Advertising\",0],\13\
+[\"Delivery expense\",0],\13\
+[\"Supplies\",0],\13\
+[\"Telephone\",0],\13\
+[\"Other utilities\",0],\13\
+[\"Insurance\",0],\13\
+[\"Taxes\",0],\13\
+[\"Interest\",0],\13\
+[\"Maintenance\",0],\13\
+[\"Legal and other professional fees\",0],\13\
+[\"Miscellaneous\",0],\13\
+]\13\
+",
+   ["UUID"]="f8oQ2aXj",
+   ["oneTimeData"]="[[\"Fixtures and Equipment\",0],\13\
+[\"Decorating and remodeling,\",0],\13\
+[\"Installation charges\",0],\13\
+[\"Starting inventory\",0],\13\
+[\"Deposits with public utilities\",0],\13\
+[\"Legal and other professional fees\",0],\13\
+[\"Licenses and permits\",0],\13\
+[\"Advertising and promotion for opening\",0],\13\
+[\"Cash\",0],\13\
+[\"Other\",0],\13\
+]\13\
+",
+   ["incomeData"]="[[\"First Order\",14,50000],\13\
+[\"Second Order\",18,0],\13\
+]\13\
+",
+   ["incomeTableData"]="[[\"First Order\",14,50000],[\"Second Order\",18,0],[null,null,null]]",
+   ["expenditureDataRAW"]={2},
+   ["monthDataRAW"]={3},
+   ["oneTimeTableData"]="[[\"Fixtures and Equipment\",0],[\"Decorating and remodeling,\",0],[\"Installation charges\",0],[\"Starting inventory\",0],[\"Deposits with public utilities\",0],[\"Legal and other professional fees\",0],[\"Licenses and permits\",0],[\"Advertising and promotion for opening\",0],[\"Cash\",0],[\"Other\",0],[null,null]]",
+   ["incomeDataRAW"]={4},
+   ["expenditureTableData"]="[[\"Office Upgrade\",18,0],[\"Vehicle Purchase\",28,1000],[null,null,null]]",
+   ["expenditureData"]="[[\"Office Upgrade\",18,0],\13\
+[\"Vehicle Purchase\",28,1000],\13\
+]\13\
+",
+   ["oneTimeDataRAW"]={5},
+   ["monthlyTableData"]="[[\"Salary of owner-manager\",3000],[\"All other salaries and wages\",0],[\"Rent\",0],[\"Advertising\",0],[\"Delivery expense\",0],[\"Supplies\",0],[\"Telephone\",0],[\"Other utilities\",0],[\"Insurance\",0],[\"Taxes\",0],[\"Interest\",0],[\"Maintenance\",0],[\"Legal and other professional fees\",0],[\"Miscellaneous\",0],[null,null]]",
+   ["dName"]="",
+},
+-- Table: {2}
+{
+   {6},
+   {7},
+   {8},
+},
+-- Table: {3}
+{
+   {9},
+   {10},
+   {11},
+   {12},
+   {13},
+   {14},
+   {15},
+   {16},
+   {17},
+   {18},
+   {19},
+   {20},
+   {21},
+   {22},
+   {23},
+},
+-- Table: {4}
+{
+   {24},
+   {25},
+   {26},
+},
+-- Table: {5}
+{
+   {27},
+   {28},
+   {29},
+   {30},
+   {31},
+   {32},
+   {33},
+   {34},
+   {35},
+   {36},
+   {37},
+},
+-- Table: {6}
+{
+   "Office Upgrade",
+   18,
+   0,
+},
+-- Table: {7}
+{
+   "Vehicle Purchase",
+   28,
+   1000,
+},
+-- Table: {8}
+{
+},
+-- Table: {9}
+{
+   "Salary of owner-manager",
+   3000,
+},
+-- Table: {10}
+{
+   "All other salaries and wages",
+   0,
+},
+-- Table: {11}
+{
+   "Rent",
+   0,
+},
+-- Table: {12}
+{
+   "Advertising",
+   0,
+},
+-- Table: {13}
+{
+   "Delivery expense",
+   0,
+},
+-- Table: {14}
+{
+   "Supplies",
+   0,
+},
+-- Table: {15}
+{
+   "Telephone",
+   0,
+},
+-- Table: {16}
+{
+   "Other utilities",
+   0,
+},
+-- Table: {17}
+{
+   "Insurance",
+   0,
+},
+-- Table: {18}
+{
+   "Taxes",
+   0,
+},
+-- Table: {19}
+{
+   "Interest",
+   0,
+},
+-- Table: {20}
+{
+   "Maintenance",
+   0,
+},
+-- Table: {21}
+{
+   "Legal and other professional fees",
+   0,
+},
+-- Table: {22}
+{
+   "Miscellaneous",
+   0,
+},
+-- Table: {23}
+{
+},
+-- Table: {24}
+{
+   "First Order",
+   14,
+   50000,
+},
+-- Table: {25}
+{
+   "Second Order",
+   18,
+   0,
+},
+-- Table: {26}
+{
+},
+-- Table: {27}
+{
+   "Fixtures and Equipment",
+   0,
+},
+-- Table: {28}
+{
+   "Decorating and remodeling,",
+   0,
+},
+-- Table: {29}
+{
+   "Installation charges",
+   0,
+},
+-- Table: {30}
+{
+   "Starting inventory",
+   0,
+},
+-- Table: {31}
+{
+   "Deposits with public utilities",
+   0,
+},
+-- Table: {32}
+{
+   "Legal and other professional fees",
+   0,
+},
+-- Table: {33}
+{
+   "Licenses and permits",
+   0,
+},
+-- Table: {34}
+{
+   "Advertising and promotion for opening",
+   0,
+},
+-- Table: {35}
+{
+   "Cash",
+   0,
+},
+-- Table: {36}
+{
+   "Other",
+   0,
+},
+-- Table: {37}
+{
+},
+}

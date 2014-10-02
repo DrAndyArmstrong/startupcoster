@@ -1,0 +1,269 @@
+return {
+-- Table: {1}
+{
+   ["monthlyIncomeTableData"]="[[\"Maintenance Service\",500],[null,null]]",
+   ["monthIncomeDataRAW"]={2},
+   ["expenditureDataRAW"]={3},
+   ["oneTimeTableData"]="[[\"Fixtures and Equipment\",0],[\"Decorating and remodeling,\",0],[\"Installation charges\",0],[\"Starting inventory\",0],[\"Deposits with public utilities\",0],[\"Legal and other professional fees\",0],[\"Licenses and permits\",0],[\"Advertising and promotion for opening\",0],[\"Cash\",0],[\"Other\",0],[null,null]]",
+   ["expenditureTableData"]="[[\"Office Upgrade\",18,0],[\"Vehicle Purchase\",28,0],[null,null,null]]",
+   ["monthlyTableData"]="[[\"Salary of owner-manager\",0],[\"All other salaries and wages\",0],[\"Rent\",0],[\"Advertising\",0],[\"Delivery expense\",0],[\"Supplies\",0],[\"Telephone\",0],[\"Other utilities\",0],[\"Insurance\",0],[\"Taxes\",0],[\"Interest\",0],[\"Maintenance\",0],[\"Legal and other professional fees\",0],[\"Miscellaneous\",200],[null,null]]",
+   ["monthlyIncomeData"]="[[\"Maintenance Service\",500],\13\
+]\13\
+",
+   ["incomeData"]="[[\"First Order\",14,0],\13\
+[\"Second Order\",18,0],\13\
+]\13\
+",
+   ["incomeTableData"]="[[\"First Order\",14,0],[\"Second Order\",18,0],[null,null,null]]",
+   ["oneTimeData"]="[[\"Fixtures and Equipment\",0],\13\
+[\"Decorating and remodeling,\",0],\13\
+[\"Installation charges\",0],\13\
+[\"Starting inventory\",0],\13\
+[\"Deposits with public utilities\",0],\13\
+[\"Legal and other professional fees\",0],\13\
+[\"Licenses and permits\",0],\13\
+[\"Advertising and promotion for opening\",0],\13\
+[\"Cash\",0],\13\
+[\"Other\",0],\13\
+]\13\
+",
+   ["monthlyData"]="[[\"Salary of owner-manager\",0],\13\
+[\"All other salaries and wages\",0],\13\
+[\"Rent\",0],\13\
+[\"Advertising\",0],\13\
+[\"Delivery expense\",0],\13\
+[\"Supplies\",0],\13\
+[\"Telephone\",0],\13\
+[\"Other utilities\",0],\13\
+[\"Insurance\",0],\13\
+[\"Taxes\",0],\13\
+[\"Interest\",0],\13\
+[\"Maintenance\",0],\13\
+[\"Legal and other professional fees\",0],\13\
+[\"Miscellaneous\",200],\13\
+]\13\
+",
+   ["incomeDataRAW"]={4},
+   ["UUID"]="DL5BTje9",
+   ["oneTimeDataRAW"]={5},
+   ["expenditureData"]="[[\"Office Upgrade\",18,0],\13\
+[\"Vehicle Purchase\",28,0],\13\
+]\13\
+",
+   ["monthDataRAW"]={6},
+   ["dName"]="",
+},
+-- Table: {2}
+{
+   {7},
+   {8},
+},
+-- Table: {3}
+{
+   {9},
+   {10},
+   {11},
+},
+-- Table: {4}
+{
+   {12},
+   {13},
+   {14},
+},
+-- Table: {5}
+{
+   {15},
+   {16},
+   {17},
+   {18},
+   {19},
+   {20},
+   {21},
+   {22},
+   {23},
+   {24},
+   {25},
+},
+-- Table: {6}
+{
+   {26},
+   {27},
+   {28},
+   {29},
+   {30},
+   {31},
+   {32},
+   {33},
+   {34},
+   {35},
+   {36},
+   {37},
+   {38},
+   {39},
+   {40},
+},
+-- Table: {7}
+{
+   "Maintenance Service",
+   500,
+},
+-- Table: {8}
+{
+},
+-- Table: {9}
+{
+   "Office Upgrade",
+   18,
+   0,
+},
+-- Table: {10}
+{
+   "Vehicle Purchase",
+   28,
+   0,
+},
+-- Table: {11}
+{
+},
+-- Table: {12}
+{
+   "First Order",
+   14,
+   0,
+},
+-- Table: {13}
+{
+   "Second Order",
+   18,
+   0,
+},
+-- Table: {14}
+{
+},
+-- Table: {15}
+{
+   "Fixtures and Equipment",
+   0,
+},
+-- Table: {16}
+{
+   "Decorating and remodeling,",
+   0,
+},
+-- Table: {17}
+{
+   "Installation charges",
+   0,
+},
+-- Table: {18}
+{
+   "Starting inventory",
+   0,
+},
+-- Table: {19}
+{
+   "Deposits with public utilities",
+   0,
+},
+-- Table: {20}
+{
+   "Legal and other professional fees",
+   0,
+},
+-- Table: {21}
+{
+   "Licenses and permits",
+   0,
+},
+-- Table: {22}
+{
+   "Advertising and promotion for opening",
+   0,
+},
+-- Table: {23}
+{
+   "Cash",
+   0,
+},
+-- Table: {24}
+{
+   "Other",
+   0,
+},
+-- Table: {25}
+{
+},
+-- Table: {26}
+{
+   "Salary of owner-manager",
+   0,
+},
+-- Table: {27}
+{
+   "All other salaries and wages",
+   0,
+},
+-- Table: {28}
+{
+   "Rent",
+   0,
+},
+-- Table: {29}
+{
+   "Advertising",
+   0,
+},
+-- Table: {30}
+{
+   "Delivery expense",
+   0,
+},
+-- Table: {31}
+{
+   "Supplies",
+   0,
+},
+-- Table: {32}
+{
+   "Telephone",
+   0,
+},
+-- Table: {33}
+{
+   "Other utilities",
+   0,
+},
+-- Table: {34}
+{
+   "Insurance",
+   0,
+},
+-- Table: {35}
+{
+   "Taxes",
+   0,
+},
+-- Table: {36}
+{
+   "Interest",
+   0,
+},
+-- Table: {37}
+{
+   "Maintenance",
+   0,
+},
+-- Table: {38}
+{
+   "Legal and other professional fees",
+   0,
+},
+-- Table: {39}
+{
+   "Miscellaneous",
+   200,
+},
+-- Table: {40}
+{
+},
+}
