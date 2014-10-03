@@ -2,7 +2,7 @@
 
 --USER CONFIGURABLE VARIABLES
 
-local dataPath = "/home/andrewa/localwork/starter/data/"
+local dataPath = "/home/andrewa/startupcoster/data/"
 local UUIDlen = 8
 local CUR = "$" -- default currency
 

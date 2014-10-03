@@ -111,7 +111,7 @@ function showSummary(fData, CUR)
 		monthlyTotals, runningTotals =  generateMonthBreakDown(fData, monthTotal, oneTimeTotal, monthIncomeTotal)
 
 	if RangeTotal < 0 then
-		RangeTotal = (0-RangeTotal) .. " (Profit)"
+		RangeTotal = (0-RangeTotal) .. " (Cash Positive)"
 	end
 
 	output=output .. [[<b>Expenditure Summary</b><br>]]

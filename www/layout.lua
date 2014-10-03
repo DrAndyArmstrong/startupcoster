@@ -109,33 +109,36 @@ end
 function grid(fData)
 	--Move these defaults directly into LUA tables in FUTURE!
 	local defaultMonthly = [=[[
-		    ["Salary of owner-manager", 0],
-		    ["All other salaries and wages", 0],
-		    ["Rent", 0],
-		    ["Advertising", 0],
-		    ["Delivery expense", 0],
-		    ["Supplies", 0],
-		    ["Telephone", 0],
-		    ["Other utilities", 0],
-		    ["Insurance", 0],
-		    ["Taxes", 0],
+		    ["Salary of owner-manager", 4166.66],
+		    ["All other salaries and wages", 3000],
+		    ["Rent", 650],
+		    ["Advertising", 100],
+		    ["Delivery expense", 50],
+		    ["Supplies", 50],
+		    ["Telephone", 50],
+		    ["Other utilities", 250],
+		    ["Insurance", 150],
+		    ["Taxes", 500],
 		    ["Interest", 0],
-		    ["Maintenance", 0],
-		    ["Legal and other professional fees", 0],
+		    ["Maintenance", 100],
+		    ["Legal and other professional fees", 350],
+		    ["Web Hosting Fees", 150],
 		    ["Miscellaneous", 0],
+		    ["Travel", 400],
+		    ["Entertainment", 150],
 		  ];]=]
 
 	local defaultOneTime = [=[[
-		    ["Fixtures and Equipment", 0],
-		    ["Decorating and remodeling,", 0],
-		    ["Installation charges", 0],
-		    ["Starting inventory", 0],
-		    ["Deposits with public utilities", 0],
-		    ["Legal and other professional fees", 0],
-		    ["Licenses and permits", 0],
-		    ["Advertising and promotion for opening", 0],
-		    ["Cash", 0],
-		    ["Other", 0],
+		    ["Fixtures and Equipment", 5000],
+		    ["Decorating and remodeling,", 2000],
+		    ["Installation charges", 500],
+		    ["Starting inventory", 250],
+		    ["Deposits with public utilities", 300],
+		    ["Legal and other professional fees", 300],
+		    ["Bank Opening Fee", 50],
+		    ["Advertising and promotion, letterheads, logos", 1500],
+		    ["Website & Hosting Setup", 1000],
+		    ["Cash", 500],
 		  ];]=]
 
 	local defaultMonthlyIncome = [=[[
@@ -143,13 +146,18 @@ function grid(fData)
 		  ];]=]
 
 	local defaultIncome = [=[[
-		    ["First Order", 14, 0],
-		    ["Second Order", 18, 0],
+		    ["Seed Round", 1, 50000],
+		    ["Angel Round", 6, 100000],
+		    ["Series A", 0, 0],
+		    ["Series B", 0, 0],
+		    ["IPO", 0, 0],
 		  ];]=]
 
 	local defaultExpenditure = [=[[
-		    ["Office Upgrade", 18, 0],
-		    ["Vehicle Purchase", 28, 0],
+		    ["Press Conference", 3, 2000],
+		    ["Prototype Launch", 6, 5000],
+		    ["Patent Filing", 12, 10000],
+		    ["V1 Product Launch", 14, 5000]
 		  ];]=]
 
 	data = [[
